@@ -1,0 +1,103 @@
+.vi{
+
+        margin-top: 20px;
+        border: 5px solid rgb(177, 38, 38);
+        background-color: rgb(249, 24, 24);
+        border-radius: 7px;
+        padding: 7px 7px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: rgb(251, 255, 0);
+        margin-left: 100px;
+}
+.vi:hover{
+    border: 5px solid rgb(15, 62, 116);
+    background-color: rgb(103, 106, 251);
+    color: rgb(251, 255, 0);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+button {
+    border: 0px;
+    cursor: pointer;
+}
+
+
+html,
+body {
+    height: 100%;
+    width: 1920px;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1760px;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+
+.e1 {
+    color:rgb(177, 38, 38);
+    margin-right: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.e1:hover {
+    color:  rgb(103, 106, 251);
+}
+
+.hat {
+    margin-left: 235px;
+    margin-right: 253px;
+    display: flex;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+}
+
+.maphat {
+    display: flex;
+    align-items: center;
+}
+
+.logomenu{
+    width: 164px;
+}
+.e2{
+    color: rgb(103, 106, 251);
+    margin-right: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+

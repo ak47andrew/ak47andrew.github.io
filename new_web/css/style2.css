@@ -1,0 +1,179 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+button {
+    border: 0px;
+    cursor: pointer;
+}
+
+
+html,
+body {
+    height: 100%;
+    width: 1920px;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1760px;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+
+.e1 {
+    color: rgb(177, 38, 38);
+    margin-right: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.e1:hover {
+    color: rgb(103, 106, 251);
+}
+
+.hat {
+    margin-left: 235px;
+    margin-right: 253px;
+    display: flex;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+}
+
+.maphat {
+    display: flex;
+    align-items: center;
+}
+
+.logomenu {
+    width: 164px;
+}
+
+.wrapper {
+    box-shadow: 0px 4px 10px 0px rgba(8, 6, 6, 0.1);
+    backdrop-filter: blur(8px);
+    background: rgba(255, 254, 254, 0.96);
+}
+
+.e2 {
+    color: rgb(103, 106, 251);
+    margin-right: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.bkok {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.mushrooms {
+    color: rgb(8, 6, 6);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: left;
+}
+
+.date {
+    color: rgb(195, 185, 181);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.nish {
+    color: rgb(89, 68, 63);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    margin-top: 10px;
+    width: 594px;
+}
+
+.rew {
+    margin-left: 30px;
+}
+
+.block2 {
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+.pesik {
+    max-width: 300px;
+}
+
+
+.text1 {
+    color: rgb(8, 6, 6);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 60px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.k1 {
+    color: rgb(195, 185, 181);
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+
+.ks {
+    margin-top: 70px;
+}
+
+
+.history {
+    display: flex;
+}
+
+.block1{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
